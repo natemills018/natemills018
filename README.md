@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Nate Mills 👋, 
 
 <!--
 **natemills018/natemills018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
