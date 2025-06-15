@@ -1,5 +1,12 @@
 ## Hi there, I'm Nate Mills 👋, 
 
+I'm currently working on a Reddit News Aggregator, to help me better target the communities that I enjoy and support.
+
+  - Using React, and Tailwind for Styling
+
+
+
+
 <!--
 **natemills018/natemills018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
