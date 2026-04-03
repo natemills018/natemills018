@@ -23,9 +23,4 @@ the communities I actually care about.
 
 ---
 
-![Nate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natemills018&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natemills018&layout=compact&theme=tokyonight)
-
-
 > *"Always bet on JavaScript." — Someone, probably.*
