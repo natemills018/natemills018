@@ -8,6 +8,7 @@ the communities I actually care about.
 
 ### 🔨 What I'm Building
 - 🗞️ **Reddit News Aggregator** — personalized community feed, built with React + Tailwind CSS
+- 🗞️ **Discord Workout Bot** - personalized workout plans with weekly splits, generated on request
 
 ---
 
