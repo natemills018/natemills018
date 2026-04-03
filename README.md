@@ -1,23 +1,31 @@
-## Hi there, I'm Nate Mills 👋, 
+## Hey, I'm Nate Mills 👋
 
-I'm currently working on a Reddit News Aggregator, to help me better target the communities that I enjoy and support.
+Professional dev by day, tinkerer by night. I like building things that scratch my own itch — 
+currently that means a **Reddit News Aggregator** to cut through the noise and surface 
+the communities I actually care about.
 
-  - Using React, and Tailwind for Styling
+---
+
+### 🔨 What I'm Building
+- 🗞️ **Reddit News Aggregator** — personalized community feed, built with React + Tailwind CSS
+
+---
+
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<!-- Add more badges here: https://shields.io -->
+
+---
+
+### ⚡ Fun fact
+*[Drop something interesting about yourself here — favorite language debate, weird side project, etc.]*
+
+---
+
+![Nate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natemills018&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natemills018&layout=compact&theme=tokyonight)
 
 
-
-
-<!--
-**natemills018/natemills018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Always bet on JavaScript." — Someone, probably.*
