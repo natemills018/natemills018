@@ -23,4 +23,4 @@ the communities I actually care about.
 
 ---
 
-> *"Always bet on JavaScript." — Someone, probably.*
+> *"Time flies when your having fun, but friut flies like bananas"*
