@@ -1,7 +1,7 @@
 ## Hey, I'm Nate Mills 👋
 
 Professional dev by day, tinkerer by night. I like building things that scratch my own itch — 
-currently that means a **Reddit News Aggregator** to cut through the noise and surface 
+currently that means a **Cleveland News Aggregator** to cut through the noise and surface 
 the communities I actually care about.
 
 ---
