@@ -20,7 +20,7 @@ the communities I actually care about.
 ---
 
 ### ⚡ Fun fact
-*[Drop something interesting about yourself here — favorite language debate, weird side project, etc.]*
+*I love working in team environments, and getting a chance to work with people that are smarter than me!*
 
 ---
 
