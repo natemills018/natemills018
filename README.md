@@ -4,6 +4,8 @@ Professional dev by day, tinkerer by night. I like building things that scratch 
 currently that means a **Cleveland News Aggregator** to cut through the noise and surface 
 the communities I actually care about.
 
+natemills.dev
+
 ---
 
 ### 🔨 What I'm Building
